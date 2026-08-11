@@ -45,7 +45,7 @@ Each folder contains its own `README.md`, notebook(s), and processed data/output
 
 - [x] Day 1 — Taxi Fare Analysis
 - [x] Day 2 — House Price Features
-- [] Day 3 — Home Price Predictor
+- [ ] Day 3 — Home Price Predictor
 - [ ] Day 4 — Survival Classifier
 - [ ] Day 5 — Churn Predictor
 - [ ] Day 6 — Loan Default Predictor
