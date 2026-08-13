@@ -1,4 +1,4 @@
-# 🚢 Day 4 — Survival Classifier
+# 🚢 Day 4  Survival Classifier
 ### *Logistic Regression | Titanic Dataset*
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Sklearn](https://img.shields.io/badge/Scikit--Learn-Classification-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
