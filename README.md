@@ -48,8 +48,8 @@ Each folder contains its own `README.md`, notebook(s), and processed data/output
 - [x] Day 3 — Home Price Predictor
 - [x] Day 4 — Survival Classifier
 - [x] Day 5 — Churn Predictor
-- [ ] Day 6 — Loan Default Predictor
-- [ ] Day 7 — Heart Disease Detector
+- [x] Day 6 — Loan Default Predictor
+- [x] Day 7 — Heart Disease Detector
 - [ ] Day 8 — Wine Quality Classifier
 - [ ] Day 9 — Customer Segmentation
 - [ ] Day 10 — Diabetes Predictor
