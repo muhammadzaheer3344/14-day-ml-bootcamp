@@ -1,0 +1,29 @@
+============================================================
+CUSTOMER SEGMENTATION - CLUSTER PROFILES
+============================================================
+
+Cluster 0: Standard Customers - Average income, Average spending
+   Average Income: $55.3k
+   Average Spending Score: 49.5
+   Number of Customers: 81
+
+Cluster 1: VIP Customers - High income, High spending (Best segment!)
+   Average Income: $86.5k
+   Average Spending Score: 82.1
+   Number of Customers: 39
+
+Cluster 2: Careful Spenders - Low income, High spending (Living beyond means?)
+   Average Income: $25.7k
+   Average Spending Score: 79.4
+   Number of Customers: 22
+
+Cluster 3: Frugal Customers - High income, Low spending
+   Average Income: $88.2k
+   Average Spending Score: 17.1
+   Number of Customers: 35
+
+Cluster 4: Low Income/Low Spenders - Low income, Low spending
+   Average Income: $26.3k
+   Average Spending Score: 20.9
+   Number of Customers: 23
+
