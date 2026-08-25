@@ -257,6 +257,11 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+### Report Issues
+- Report bugs via [GitHub Issues](https://github.com/FizaAslam1/customer-churn-prediction/issues)
+- Provide detailed description and steps to reproduce
+- Include screenshots or error messages
+
 ---
 
 ## 📄 License
@@ -267,9 +272,15 @@ This project is open source and available for educational and commercial use. Se
 
 ## 👩‍💻 About the Developer
 
-**Muhammad Zaheer**  
-AI & Data Science Enthusiast | BS AI Student  
+**Fiza Aslam**  
+Data Science Enthusiast | BS IT Student  
 The Islamia University of Bahawalpur, Pakistan
+
+**Connect with me:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/fiza-aslam-07a3863a4)
+- 🔗 [GitHub](https://github.com/FizaAslam1)
+- 📊 [Kaggle](https://www.kaggle.com/fizaaslam12)
+
 ---
 
 **Last Updated:** June 2026
