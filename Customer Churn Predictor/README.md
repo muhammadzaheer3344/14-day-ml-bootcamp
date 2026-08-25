@@ -8,7 +8,7 @@
 
 Customer churn is one of the most significant challenges facing the telecom industry, costing companies millions in lost revenue annually. This advanced machine learning application enables businesses to identify at-risk customers and implement data-driven retention strategies.
 
-**Live Demo:** [Try the Interactive App](https://customer-churn-prediction-kr8rlyy5c3ecmvexc7iumv.streamlit.app/)
+**Live Demo:** [Try the Interactive App](https://telecomcoustmerchurn-fdwqwl7ukzjlwyghgr4n5r.streamlit.app)
 
 ---
 
@@ -257,11 +257,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-### Report Issues
-- Report bugs via [GitHub Issues](https://github.com/FizaAslam1/customer-churn-prediction/issues)
-- Provide detailed description and steps to reproduce
-- Include screenshots or error messages
-
 ---
 
 ## 📄 License
@@ -272,14 +267,13 @@ This project is open source and available for educational and commercial use. Se
 
 ## 👩‍💻 About the Developer
 
-**Fiza Aslam**  
-Data Science Enthusiast | BS IT Student  
+**Muhammad Zaheer**  
+AI & Data Science Enthusiast | BS AI Student  
 The Islamia University of Bahawalpur, Pakistan
 
 **Connect with me:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/fiza-aslam-07a3863a4)
-- 🔗 [GitHub](https://github.com/FizaAslam1)
-- 📊 [Kaggle](https://www.kaggle.com/fizaaslam12)
+- 💼 [LinkedIn](www.linkedin.com/in/zaheermuhammad131)
+- 🔗 [GitHub](https://github.com/muhammadzaheer3344)
 
 ---
 
